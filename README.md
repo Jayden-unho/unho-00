@@ -1,29 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?&type=waving&height=200&color=0:9EB4FF,100:5B6CFF&section=header&desc=하루 한걸음 성장하는 개발자&descSize=40&descAlignY=25&animation=twinkling&fontColor=000000" alt="header">
+## 소개
 
-## 스킬 Skill
+지속적이 성장과 사용자의 사용성을 고려하는 프론트엔드 개발자가 되고 싶습니다.
 
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="javascript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=black" alt="react"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="next.js"/>
-    <img src="https://img.shields.io/badge/React--Native-61dafb?logo=react&logoColor=black" alt="react_native"/>
-    <img src="https://img.shields.io/badge/Vue.js-4fc08d?logo=vue.js&logoColor=white" alt="vue.js"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white" alt="redux"/>
-    <img src="https://img.shields.io/badge/Vuex-4fc08d?logo=vue.js&logoColor=white" alt="vuex"/>
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="django"/>
-    <img src="https://img.shields.io/badge/Styled--Components-db7093?logo=Styled-Components&logoColor=white" alt="styled-components"/>
-    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="pytorch"/>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="selenium"/>
-  </div>
-</div>
+## 이력
 
-## 연락 Contact
+|기간|내용|
+|---|---|
+|2022.07 ~ 현 재|부스트캠프 웹・모바일 7기 (풀스택 JavaScript)|
+|2021.07 ~ 2022.06|삼성 청년 소프트웨어 아카데미 (SSAFY) 6기|
+
+## 연락
 
 Email   |   djsgh94@naver.com
 
 Blog    |   https://unho94.tistory.com
+
+## 스탯
+
+[![unho's GitHub stats](https://github-readme-stats.vercel.app/api?username=unho-00)](https://github.com/unho-00/github-readme-stats)
